@@ -2,11 +2,11 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb)
 
-xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+xeus-python + JupyterLite deployed as a static site to GitHub Pages, following the youtube tutorial - Jeremy Tuloup: Create interactive Jupyter websites with JupyterLite.
 
-## ✨ Try it in your browser ✨
+## ✨ Try it in the browser ✨
 
-https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb
+https://pedrokoelho.github.io/jupyterlite-xeus
 
 ## ≠ How does it compare to the Pyodide kernel?
 
