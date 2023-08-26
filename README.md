@@ -1,4 +1,4 @@
-# xeus-python + JupyterLite demo
+# My own xeus-python + JupyterLite 
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb)
 
